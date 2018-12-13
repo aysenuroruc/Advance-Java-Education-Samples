@@ -1,0 +1,15 @@
+<employees>
+	<employee>
+		<name>John</name>
+		<lastname>Reese</lastname>
+	</employee>
+	<employee>
+		<name>Harold</name>
+		<lastname>Finch</lastname>
+	</employee>
+	<employee>
+		<name>Root</name>
+		<lastname>No lastname</lastname>
+	</employee>
+
+</employees>

@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/togiberlin/java_design_pattern_koans/exercises/design_patterns.png
+http://www.java4all.in/java/images/collections.png
+https://smartsoftware247.com/wp-content/uploads/2018/08/Map-In-Java.png

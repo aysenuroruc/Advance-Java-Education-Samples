@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<studentsType xmlns="http://www.example.org/students">
+	<student>
+		<id>1</id>
+		<name>aaa</name>
+		<lastname>aaa</lastname>
+	</student>
+	<student>
+		<id>2</id>
+		<name>bbb</name>
+		<lastname>bbb</lastname>
+	</student>
+	<student>
+		<id>3</id>
+		<name>ccc</name>
+		<lastname>ccc</lastname>
+	</student>
+</studentsType>

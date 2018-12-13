@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><employees>
+	<employee>
+		<name>John</name>
+		<lastname>Reese</lastname>
+	</employee>
+	<employee>
+		<name>Harold</name>
+		<lastname>Finch</lastname>
+	</employee>
+	<employee>
+		<name>Root</name>
+		<lastname>No lastname</lastname>
+	</employee>
+
+<employee><name>AHMET</name><lastname>DEMIRELLI</lastname></employee></employees>
